@@ -45,7 +45,7 @@
 // For version strings of upnp and gstreamer
 #include <upnp/upnpconfig.h>
 #ifdef HAVE_GST
-#  include <gst/gst.h>
+#include <gst/gst.h>
 #endif
 
 #include "git-version.h"
